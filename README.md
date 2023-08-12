@@ -3,14 +3,14 @@
 ### A fully dynamic and customisable theme that uses fullscreen images to greatly improve your Spotify experience. 
 
 ---
-### Fullscreen Artist/Album Backgrounds
+### Preview
 ![preview](preview.png)
 
 ---
 
 ### Manual Installation
 
-After cloning the repo add the files `user.css` and `color.ini` into a new folder named `Galaxy`, and place this folder into your `Themes` folder in `.spicetify`.
+After cloning the repo place folder folder named `Galaxy` into your `Themes` folder in `.spicetify`.
 
 Then run these commands to apply:
 
