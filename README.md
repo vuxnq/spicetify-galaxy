@@ -1,4 +1,4 @@
-# Spicetify Galaxy
+# Spicetify Galaxy (catppuccin)
 
 ### A fully dynamic and customisable theme that uses fullscreen images to greatly improve your Spotify experience. 
 
